@@ -1,4 +1,4 @@
-import{_ as n,o as a,c as s,a as e}from"./app-BjBjj4X_.js";const t={},i=e(`<h1 id="nginx" tabindex="-1"><a class="header-anchor" href="#nginx"><span>nginx</span></a></h1><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token builtin class-name">cd</span> /usr/local/src
+import{_ as n,o as a,c as s,a as e}from"./app-DtkUBie_.js";const t={},i=e(`<h1 id="nginx" tabindex="-1"><a class="header-anchor" href="#nginx"><span>nginx</span></a></h1><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token builtin class-name">cd</span> /usr/local/src
 <span class="token function">wget</span> https://nginx.org/download/nginx-1.25.4.tar.gz
 <span class="token function">tar</span> <span class="token parameter variable">-zxvf</span> nginx-1.25.4.tar.gz
 <span class="token function">mv</span> nginx-1.25.4 nginx

@@ -1,4 +1,4 @@
-import{_ as t,o as e,c as s,a as n}from"./app-BjBjj4X_.js";const a={},l=n(`<h1 id="systemctl" tabindex="-1"><a class="header-anchor" href="#systemctl"><span>systemctl</span></a></h1><h2 id="go的service配置" tabindex="-1"><a class="header-anchor" href="#go的service配置"><span>go的service配置</span></a></h2><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token punctuation">[</span>Unit<span class="token punctuation">]</span>
+import{_ as t,o as e,c as s,a as n}from"./app-DtkUBie_.js";const a={},l=n(`<h1 id="systemctl" tabindex="-1"><a class="header-anchor" href="#systemctl"><span>systemctl</span></a></h1><h2 id="go的service配置" tabindex="-1"><a class="header-anchor" href="#go的service配置"><span>go的service配置</span></a></h2><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token punctuation">[</span>Unit<span class="token punctuation">]</span>
 <span class="token assign-left variable">Description</span><span class="token operator">=</span>OA的golang后台程序
 <span class="token comment">#After=mysqld.service redis.service</span>
 

@@ -1,4 +1,4 @@
-import{_ as e,o as s,c as n,a}from"./app-BjBjj4X_.js";const i={},l=a(`<h1 id="docker" tabindex="-1"><a class="header-anchor" href="#docker"><span>docker</span></a></h1><h2 id="redis7-2" tabindex="-1"><a class="header-anchor" href="#redis7-2"><span>redis7.2</span></a></h2><p>使用 <a href="./redis.conf">配置文件</a></p><div class="language-docker line-numbers-mode" data-ext="docker" data-title="docker"><pre class="language-docker"><code>docker run -p 6379:6379 --name redis72 
+import{_ as e,o as s,c as n,a}from"./app-DtkUBie_.js";const i={},l=a(`<h1 id="docker" tabindex="-1"><a class="header-anchor" href="#docker"><span>docker</span></a></h1><h2 id="redis7-2" tabindex="-1"><a class="header-anchor" href="#redis7-2"><span>redis7.2</span></a></h2><p>使用 <a href="./redis.conf">配置文件</a></p><div class="language-docker line-numbers-mode" data-ext="docker" data-title="docker"><pre class="language-docker"><code>docker run -p 6379:6379 --name redis72 
 -v C:\\Users\\Administrator\\Desktop\\docker_data\\redis72\\redis.conf:/etc/redis/redis.conf 
 -v C:\\Users\\Administrator\\Desktop\\docker_data\\redis72\\data:/data:rw 
 --privileged=true 
