@@ -1,4 +1,4 @@
-import{_ as n,o as s,c as e,a}from"./app-DtkUBie_.js";const i={},t=a(`<h1 id="package-json" tabindex="-1"><a class="header-anchor" href="#package-json"><span>package.json</span></a></h1><p><code>https://docs.npmjs.com/cli/v10/configuring-npm/package-json</code></p><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code>Specifics of <span class="token function">npm</span><span class="token string">&#39;s package.json handling
+import{_ as n,o as s,c as e,a}from"./app-DLNTDXQM.js";const i={},t=a(`<h1 id="package-json" tabindex="-1"><a class="header-anchor" href="#package-json"><span>package.json</span></a></h1><p><code>https://docs.npmjs.com/cli/v10/configuring-npm/package-json</code></p><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code>Specifics of <span class="token function">npm</span><span class="token string">&#39;s package.json handling
 Select CLI Version:
 
 Description

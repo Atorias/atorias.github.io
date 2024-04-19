@@ -1,4 +1,4 @@
-import{_ as s,o as n,c as a,a as e}from"./app-DtkUBie_.js";const t={},i=e(`<h1 id="openssh" tabindex="-1"><a class="header-anchor" href="#openssh"><span>openssh</span></a></h1><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token assign-left variable">openssh_version</span><span class="token operator">=</span>openssh-9.6p1
+import{_ as s,o as n,c as a,a as e}from"./app-DLNTDXQM.js";const t={},i=e(`<h1 id="openssh" tabindex="-1"><a class="header-anchor" href="#openssh"><span>openssh</span></a></h1><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token assign-left variable">openssh_version</span><span class="token operator">=</span>openssh-9.6p1
 <span class="token assign-left variable">date_time</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span><span class="token function">date</span> +%Y-%m-%d—%H:%M<span class="token variable">)</span></span>
 
 <span class="token builtin class-name">cd</span> /usr/local/src
