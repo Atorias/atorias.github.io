@@ -1,4 +1,4 @@
-import{_ as a,o as n,c as s,a as e}from"./app-DLNTDXQM.js";const t={},i=e(`<h1 id="git" tabindex="-1"><a class="header-anchor" href="#git"><span>git</span></a></h1><h2 id="安装git" tabindex="-1"><a class="header-anchor" href="#安装git"><span>安装git</span></a></h2><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code>yum info <span class="token function">git</span>
+import{_ as a,o as n,c as s,a as e}from"./app-CELWb2CF.js";const t={},i=e(`<h1 id="git" tabindex="-1"><a class="header-anchor" href="#git"><span>git</span></a></h1><h2 id="安装git" tabindex="-1"><a class="header-anchor" href="#安装git"><span>安装git</span></a></h2><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code>yum info <span class="token function">git</span>
 yum remove <span class="token function">git</span>
 yum <span class="token function">install</span> curl-devel expat-devel gettext-devel openssl-devel zlib-devel
 yum <span class="token function">install</span>  gcc perl-ExtUtils-MakeMaker
