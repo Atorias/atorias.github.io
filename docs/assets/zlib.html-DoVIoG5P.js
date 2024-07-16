@@ -1,4 +1,4 @@
-import{_ as s,o as a,c as n,a as e}from"./app-CELWb2CF.js";const l={},i=e(`<h1 id="zlib" tabindex="-1"><a class="header-anchor" href="#zlib"><span>zlib</span></a></h1><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token builtin class-name">cd</span> <span class="token builtin class-name">cd</span> /usr/local/src/
+import{_ as s,o as a,c as n,a as e}from"./app-BoQnz2iZ.js";const l={},i=e(`<h1 id="zlib" tabindex="-1"><a class="header-anchor" href="#zlib"><span>zlib</span></a></h1><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token builtin class-name">cd</span> <span class="token builtin class-name">cd</span> /usr/local/src/
 <span class="token function">wget</span> https://www.zlib.net/zlib-1.3.1.tar.gz
 <span class="token function">mv</span> zlib-1.3.1 zlib
 <span class="token builtin class-name">cd</span> zlib
