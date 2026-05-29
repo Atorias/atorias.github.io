@@ -91,7 +91,13 @@ export default defineUserConfig({
           '/languages/assembly',
           '/languages/go',
         ]
-      }
+      },
+      {
+        text: '健身计划',
+        children: [
+          '/fitness/plan',
+        ]
+      },
     ]
   }),
 
