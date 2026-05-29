@@ -1,0 +1,13 @@
+import{_ as s,a,b as e,o as i}from"./app-BwP785Qz.js";const l={};function t(c,n){return i(),a("div",null,[...n[0]||(n[0]=[e(`<h1 id="连接wifi" tabindex="-1"><a class="header-anchor" href="#连接wifi"><span>连接wifi</span></a></h1><h2 id="networkmanager" tabindex="-1"><a class="header-anchor" href="#networkmanager"><span>networkmanager</span></a></h2><h3 id="具体操作" tabindex="-1"><a class="header-anchor" href="#具体操作"><span>具体操作</span></a></h3><div class="language-bash line-numbers-mode" data-highlighter="prismjs" data-ext="sh" data-title="sh"><pre><code><span class="line"><span class="token comment"># 查看无限设备是否被识别</span></span>
+<span class="line">nmcli device</span>
+<span class="line"><span class="token comment"># 列出可用的wifi网络</span></span>
+<span class="line">nmcli device wifi list</span>
+<span class="line"><span class="token comment"># 连接wifi</span></span>
+<span class="line">nmcli device wifi connect <span class="token string">&quot;&lt;wifi名称&gt;&quot;</span> password <span class="token string">&quot;&lt;wifi密码&gt;&quot;</span></span>
+<span class="line"><span class="token comment"># 查看连接状态</span></span>
+<span class="line">nmcli device status</span>
+<span class="line"><span class="token comment"># 保存网络自动连接</span></span>
+<span class="line">nmcli connection modify <span class="token string">&quot;&lt;连接名称&gt;&quot;</span> connection.autoconnect <span class="token function">yes</span></span>
+<span class="line"><span class="token comment"># 断开连接</span></span>
+<span class="line">nmcli connection down <span class="token string">&quot;MyWiFiNetwork&quot;</span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,4)])])}const r=s(l,[["render",t]]),p=JSON.parse('{"path":"/linux_tools/network.html","title":"连接wifi","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"networkmanager","slug":"networkmanager","link":"#networkmanager","children":[{"level":3,"title":"具体操作","slug":"具体操作","link":"#具体操作","children":[]}]}],"git":{"updatedTime":1753944876000,"contributors":[{"name":"OldWitch","email":"demilich1990@gmail.com","commits":2,"url":"https://github.com/OldWitch"}]},"filePathRelative":"linux_tools/network.md"}');export{r as comp,p as data};
